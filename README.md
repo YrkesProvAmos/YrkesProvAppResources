@@ -53,10 +53,25 @@ Att välja rätt font är svårt, men också väldigt viktigt.
 | MyFonts | [LINK](https://www.myfonts.com/)  |
 | Behance | [LINK](https://www.behance.net/search/projects?search=Free%20font)  |
 
-
 # Videos
 
 Stock video sidor för dina web appar
+
+## Gratis
+
+| Sida  | Link |
+| ------------- | ------------- |
+| Pexels Videos | [LINK](https://www.pexels.com/videos/)  |
+| PixaBay Videos | [LINK](https://pixabay.com/videos/)  |
+| Videvo | [LINK](https://www.videvo.net/)  |
+
+## Betalda
+
+| Sida  | Link |
+| ------------- | ------------- |
+| ShutterStock Video | [LINK](https://www.shutterstock.com/video)  |
+| VideoHive | [LINK](https://videohive.net/category/stock-footage)  |
+| StoryBlocks | [LINK](https://www.storyblocks.com/)  |
 
 # Ikoner
 
