@@ -106,9 +106,25 @@ Det finns tusentals frameworks, svårt att välja den rätta just för ditt proj
 
 Tutorials för att lära sig med.
 
+## ReactJS tutorials
+
+| Tutorial  | Beskrivning |
+| ------------- | ------------- |
+| [Getting Started!](https://youtu.be/pgAvVxowaYU) | Bra tutorial för nybörjare som vill börja lära sig React |
+| [Spotify Clone](https://www.youtube.com/watch?v=pnkuI8KXW_8) | Long ReactJS tutorial där du lär dig hur man skapar en Spotify clone i React |
+
+## NodeJS tutorials
+
+| Tutorial  | Beskrivning |
+| ------------- | ------------- |
+| [NodeJS for beginners](https://youtu.be/TlB_eWDSMt4) | NodeJS tutorial för nybörjare som vill lära sig Node |
+| [Discord Bot](https://youtu.be/BmKXBVdEV0g) | Simpel tutorial där du lär dig hur man skapar en simpel Discord bot med DiscordJS |
+| [Firebase authentication](https://youtu.be/kX8by4eCyG4) | Tutorial för authentication med Firebase i Node |
+
 # Browser extensions
 
-NodeJS är en av de populäraste JS platformerna som används för allt från bottar till web appar.
+Det finns många browser extension som kan hjälpa och försnabba ditt arbete som en web developer. <br>
+Det här är en lista av de jag skulle rekommendera.
 
 # NodeJS libraries
 
