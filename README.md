@@ -131,7 +131,13 @@ Det här är en lista av de jag skulle rekommendera.
 | Ublock Origin | [LINK](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) | [LINK](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | En Adblocker är ett måste om du är på nätet, uBlock origin är den simplaste och bästa |
 | Fast Forward | N/A | [LINK](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/) | FastForward skippar en massa onödiga ad linkar och tracker linkar och för dig direkt till destinationen |
 | Octotree | [LINK](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc) | [LINK](https://addons.mozilla.org/en-US/firefox/addon/octotree/) | Octotree gör så att du kan lättare gå igenom github repo strukturer |
+| WhatRuns | [LINK](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip?hl=en) | [LINK](https://addons.mozilla.org/en-US/firefox/addon/whatruns/) | WhatRuns visar vad en viss websida kör på |
+| ColorZilla | [LINK](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en) | [LINK](https://addons.mozilla.org/en-US/firefox/addon/colorzilla/) | ColorZilla är en color picker och selector som gör det lätt att hitta färger från sidor |
 
 # NodeJS libraries
 
 Här är några väldigt användbara och bra NPM libraries
+
+| Extension  | Chrome | Firefox | Beskrivning |
+| ------------- | ------------- | ------------- | ------------- |
+| Ublock Origin |  |  | En Adblocker är ett måste om du är på nätet, uBlock origin är den simplaste och bästa |
