@@ -17,8 +17,8 @@ På den här repon finns en massa olika resurser som du kan behöva om du skapar
 
 # Bilder
 
-Bilder kan föra dina web appar från tråkiga gråa och vita sidor till lysande och färglada sidor. <br>
-Det här är en lista av både gratis och betalda bild libraries.
+> Bilder kan föra dina web appar från tråkiga gråa och vita sidor till lysande och färglada sidor. <br>
+> Det här är en lista av både gratis och betalda bild libraries.
 
 ### Gratis bilder
 
@@ -39,8 +39,8 @@ Det här är en lista av både gratis och betalda bild libraries.
 
 # Fonter
 
-Att välja rätt font är svårt, men också väldigt viktigt. <br>
-Det här är en lista av font libraries.
+> Att välja rätt font är svårt, men också väldigt viktigt. <br>
+> Det här är en lista av font libraries.
 
 | Sida  | Link |
 | ------------- | ------------- |
@@ -53,7 +53,7 @@ Det här är en lista av font libraries.
 
 # Videos
 
-Stock video library sidor för dina web appar.
+> Stock video library sidor för dina web appar.
 
 ### Gratis
 
@@ -73,8 +73,8 @@ Stock video library sidor för dina web appar.
 
 # Ikoner
 
-Ikoner är oftast små bilder som kan göra din UI/UX 100 gånger bättre. <br>
-Det här är en lista av Ikon libraries.
+> Ikoner är oftast små bilder som kan göra din UI/UX 100 gånger bättre. <br>
+> Det här är en lista av Ikon libraries.
 
 | Sida  | Link |
 | ------------- | ------------- |
@@ -86,7 +86,7 @@ Det här är en lista av Ikon libraries.
 
 # Frameworks
 
-Det finns tusentals frameworks, svårt att välja den rätta just för ditt projekt.
+> Det finns tusentals frameworks, svårt att välja den rätta just för ditt projekt.
 
 ## JavaScript Frameworks
 | Framework  | Beskrivning |
@@ -104,7 +104,7 @@ Det finns tusentals frameworks, svårt att välja den rätta just för ditt proj
 
 # Tutorials
 
-Tutorials för att lära sig med.
+> Tutorials för att lära sig med.
 
 ## ReactJS tutorials
 
@@ -123,8 +123,8 @@ Tutorials för att lära sig med.
 
 # Browser extensions
 
-Det finns många browser extension som kan hjälpa och försnabba ditt arbete som en web developer. <br>
-Det här är en lista av de jag skulle rekommendera.
+> Det finns många browser extension som kan hjälpa och försnabba ditt arbete som en web developer. <br>
+> Det här är en lista av de jag skulle rekommendera.
 
 | Extension  | Chrome | Firefox | Beskrivning |
 | ------------- | ------------- | ------------- | ------------- |
@@ -136,8 +136,8 @@ Det här är en lista av de jag skulle rekommendera.
 
 # NodeJS libraries
 
-Här är några väldigt användbara och bra NPM libraries
+> Här är några väldigt användbara och bra NPM libraries
 
-| Extension  | Chrome | Firefox | Beskrivning |
-| ------------- | ------------- | ------------- | ------------- |
-| Ublock Origin |  |  | En Adblocker är ett måste om du är på nätet, uBlock origin är den simplaste och bästa |
+| Library | Beskrivning |
+| ------------- | ------------- |
+| Ublock Origin |  En Adblocker är ett måste om du är på nätet, uBlock origin är den simplaste och bästa |
