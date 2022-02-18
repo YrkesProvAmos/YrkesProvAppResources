@@ -17,7 +17,8 @@ På den här repon finns en massa olika resurser som du kan behöva om du skapar
 
 # Bilder
 
-Bilder kan föra dina web appar från tråkiga gråa och vita sidor till lysande och färglada sidor
+Bilder kan föra dina web appar från tråkiga gråa och vita sidor till lysande och färglada sidor. <br>
+Det här är en lista av både gratis och betalda bild libraries.
 
 ### Gratis bilder
 
@@ -38,7 +39,7 @@ Bilder kan föra dina web appar från tråkiga gråa och vita sidor till lysande
 
 # Fonter
 
-Att välja rätt font är svårt, men också väldigt viktigt.
+Att välja rätt font är svårt, men också väldigt viktigt. <br>
 Det här är en lista av font libraries.
 
 | Sida  | Link |
@@ -72,7 +73,7 @@ Stock video library sidor för dina web appar
 
 # Ikoner
 
-Ikoner är oftast små bilder som kan göra din UI/UX 100 gånger bättre.
+Ikoner är oftast små bilder som kan göra din UI/UX 100 gånger bättre. <br>
 Det här är en lista av Ikon libraries
 
 | Sida  | Link |
