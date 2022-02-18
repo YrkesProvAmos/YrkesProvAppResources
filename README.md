@@ -21,6 +21,8 @@ Bilder kan föra dina web appar från tråkiga gråa och vita sidor till lysande
 
 ## Gratis bilder
 
+Gratis bilder utan royalty
+
 | Sida  | Link |
 | ------------- | ------------- |
 | PixaBay | [LINK](https://pixabay.com/)  |
@@ -29,6 +31,8 @@ Bilder kan föra dina web appar från tråkiga gråa och vita sidor till lysande
 | FreeImages | [LINK](https://www.freeimages.com/)  |
 
 ## Betalda bilder
+
+Bilder som man måste betala för
 
 | Sida  | Link |
 | ------------- | ------------- |
