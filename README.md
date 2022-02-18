@@ -84,17 +84,27 @@ Det här är en lista av Ikon libraries
 | icons8 | [LINK](https://icons8.com/icons) |
 | Free Icons | [LINK](https://freeicons.io/) |
 
-# JavaScript Frameworks
+# Frameworks
 
-Det finns tusentals JS frameworks, svårt att välja den rätta just för ditt projekt
+Det finns tusentals frameworks, svårt att välja den rätta just för ditt projekt
 
-| Framework  |  |
+## JavaScript Frameworks
+| Framework  | Beskrivning |
 | ------------- | ------------- |
-| FlatIcon | [LINK](https://www.flaticon.com/) |
+| [ReactJS](https://reactjs.org/) | ReactJS är en frontend framework skapad av Meta (Facebook) som gör det väldigt lätt att göra snygga frontends för dina applikationer. |
+| [VueJS](https://vuejs.org/) | VueJS är en open source frontend framework som använder model–view–viewmodel logik. |
+| [NextJS](https://nextjs.org/) | NextJS är en frontend framework som är byggd på facebooks ReactJS. |
 
-# ReactJS Tutorials
+## Python Frameworks
 
-Tutorials för det populara JS frameworket ReactJS av Meta
+| Framework  | Beskrivning |
+| ------------- | ------------- |
+| [Django](https://www.djangoproject.com/) | Django är ett Python framework för web developement som kan användas för både front-end och back-end |
+| [Flask](https://flask.palletsprojects.com/en/2.0.x/) | Flask är ett Python framework känt för hur de inte använder andra libraries eller packages och kallas ofta ett "Micro framework" |
+
+# Tutorials
+
+Tutorials för att lära sig med.
 
 # NodeJS Tutorials
 
