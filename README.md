@@ -19,7 +19,7 @@ På den här repon finns en massa olika resurser som du kan behöva om du skapar
 
 Bilder kan föra dina web appar från tråkiga gråa och vita sidor till lysande och färglada sidor
 
-## Gratis bilder (CC)
+## Gratis bilder
 
 | Sida  | Link |
 | ------------- | ------------- |
@@ -39,6 +39,16 @@ Bilder kan föra dina web appar från tråkiga gråa och vita sidor till lysande
 # Fonter
 
 Att välja rätt font är svårt, men också väldigt viktigt.
+
+| Sida  | Link |
+| ------------- | ------------- |
+| Google Fonts | [LINK](https://fonts.google.com/)  |
+| DaFont | [LINK](https://www.dafont.com/)  |
+| 1001 Fonts | [LINK](https://www.1001fonts.com/)  |
+| Adobe Fonts | [LINK](https://fonts.adobe.com/)  |
+| MyFonts | [LINK](https://www.myfonts.com/)  |
+| Behance | [LINK](https://www.behance.net/search/projects?search=Free%20font)  |
+
 
 # Videos
 
