@@ -19,6 +19,16 @@ På den här repon finns en massa olika resurser som du kan behöva om du skapar
 
 Bilder kan föra dina web appar från tråkiga gråa och vita sidor till lysande och färglada sidor
 
+## Gratis bilder (CC)
+
+| Sida  | Link |
+| ------------- | ------------- |
+| PixaBay | [LINK](https://pixabay.com/)  |
+| UnSplash | [LINK](https://unsplash.com/)  |
+
+
+## Betalda bilder
+
 # Fonter
 
 Att välja rätt font är svårt, men också väldigt viktigt.
