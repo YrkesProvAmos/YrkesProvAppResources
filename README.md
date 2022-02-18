@@ -53,7 +53,7 @@ Det här är en lista av font libraries.
 
 # Videos
 
-Stock video library sidor för dina web appar
+Stock video library sidor för dina web appar.
 
 ### Gratis
 
@@ -74,7 +74,7 @@ Stock video library sidor för dina web appar
 # Ikoner
 
 Ikoner är oftast små bilder som kan göra din UI/UX 100 gånger bättre. <br>
-Det här är en lista av Ikon libraries
+Det här är en lista av Ikon libraries.
 
 | Sida  | Link |
 | ------------- | ------------- |
@@ -86,14 +86,14 @@ Det här är en lista av Ikon libraries
 
 # Frameworks
 
-Det finns tusentals frameworks, svårt att välja den rätta just för ditt projekt
+Det finns tusentals frameworks, svårt att välja den rätta just för ditt projekt.
 
 ## JavaScript Frameworks
 | Framework  | Beskrivning |
 | ------------- | ------------- |
-| [ReactJS](https://reactjs.org/) | ReactJS är en frontend framework skapad av Meta (Facebook) som gör det väldigt lätt att göra snygga frontends för dina applikationer. |
-| [VueJS](https://vuejs.org/) | VueJS är en open source frontend framework som använder model–view–viewmodel logik. |
-| [NextJS](https://nextjs.org/) | NextJS är en frontend framework som är byggd på facebooks ReactJS. |
+| [ReactJS](https://reactjs.org/) | ReactJS är en frontend framework skapad av Meta (Facebook) som gör det väldigt lätt att göra snygga frontends för dina applikationer |
+| [VueJS](https://vuejs.org/) | VueJS är en open source frontend framework som använder model–view–viewmodel logik |
+| [NextJS](https://nextjs.org/) | NextJS är en frontend framework som är byggd på facebooks ReactJS |
 
 ## Python Frameworks
 
@@ -126,9 +126,11 @@ Tutorials för att lära sig med.
 Det finns många browser extension som kan hjälpa och försnabba ditt arbete som en web developer. <br>
 Det här är en lista av de jag skulle rekommendera.
 
-| Extension  | Beskrivning | Chrome | Firefox |
+| Extension  | Chrome | Firefox | Beskrivning |
 | ------------- | ------------- | ------------- | ------------- |
 | Ublock Origin | [LINK](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) | [LINK](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | En Adblocker är ett måste om du är på nätet, uBlock origin är den simplaste och bästa |
+| Fast Forward | N/A | [LINK](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/) | FastForward skippar en massa onödiga ad linkar och tracker linkar och för dig direkt till destinationen |
+| Octotree | [LINK](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc) | [LINK](https://addons.mozilla.org/en-US/firefox/addon/octotree/) | Octotree gör så att du kan lättare gå igenom github repo strukturer |
 
 # NodeJS libraries
 
