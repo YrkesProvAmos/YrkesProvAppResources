@@ -141,4 +141,7 @@ På den här repon finns en massa olika resurser som du kan behöva om du skapar
 | Library | Beskrivning |
 | ------------- | ------------- |
 | [sqlite3](https://www.npmjs.com/package/sqlite3) | sqlite3 är en SQlite wrapper som gör det väldigt lätt att arbeta med SQlite databaser |
-
+| [discordJS](https://www.npmjs.com/package/discord.js) | DiscordJS är en discord bot module som gör skapandet av discord bottar väldigt lätt |
+| [socketio](https://www.npmjs.com/package/socket.io) | SocketIO är en socket based server och client package |
+| [DayJS](https://www.npmjs.com/package/dayjs) | DayJS är ett minimalistiskt datum bearbetnings library |
+| [bcrypt](https://www.npmjs.com/package/bcrypt) | Brypct är en brypct wrapper som är ett måste om du sparar lösenord eller skapar auth |
