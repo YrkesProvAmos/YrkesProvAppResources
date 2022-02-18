@@ -12,8 +12,8 @@ På den här repon finns en massa olika resurser som du kan behöva om du skapar
  - [Ikoner](#Frameworks)
  - [Frameworks](#Frameworks)
  - [Tutorials](#Tutorials)
- - [Extensions](#Browser)
- - [NodeJS libraries](#NodeJS libraries)
+ - [Extensions](#Browser-Extensions)
+ - [NodeJS libraries](#NodeJS-libraries)
 
 # Bilder
 
