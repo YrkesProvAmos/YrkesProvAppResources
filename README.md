@@ -10,9 +10,9 @@ På den här repon finns en massa olika resurser som du kan behöva om du skapar
  - Fonter
  - Videos
  - Ikoner
- - JS Frameworks
- - ReactJS tutorials
- - NodeJS tutorials
+ - Frameworks
+ - Tutorials
+ - Extensions
  - NodeJS libraries
 
 # Bilder
@@ -106,7 +106,7 @@ Det finns tusentals frameworks, svårt att välja den rätta just för ditt proj
 
 Tutorials för att lära sig med.
 
-# NodeJS Tutorials
+# Browser extensions
 
 NodeJS är en av de populäraste JS platformerna som används för allt från bottar till web appar.
 
