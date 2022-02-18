@@ -39,6 +39,7 @@ Bilder kan föra dina web appar från tråkiga gråa och vita sidor till lysande
 # Fonter
 
 Att välja rätt font är svårt, men också väldigt viktigt.
+Det här är en lista av font libraries.
 
 | Sida  | Link |
 | ------------- | ------------- |
@@ -51,9 +52,9 @@ Att välja rätt font är svårt, men också väldigt viktigt.
 
 # Videos
 
-Stock video sidor för dina web appar
+Stock video library sidor för dina web appar
 
-## Gratis
+### Gratis
 
 | Sida  | Link |
 | ------------- | ------------- |
@@ -61,7 +62,7 @@ Stock video sidor för dina web appar
 | PixaBay Videos | [LINK](https://pixabay.com/videos/)  |
 | Videvo | [LINK](https://www.videvo.net/)  |
 
-## Betalda
+### Betalda
 
 | Sida  | Link |
 | ------------- | ------------- |
@@ -71,11 +72,24 @@ Stock video sidor för dina web appar
 
 # Ikoner
 
-Ikoner är oftast små bilder som kan göra din UI/UX 100 gånger bättre
+Ikoner är oftast små bilder som kan göra din UI/UX 100 gånger bättre.
+Det här är en lista av Ikon libraries
+
+| Sida  | Link |
+| ------------- | ------------- |
+| FlatIcon | [LINK](https://www.flaticon.com/) |
+| FontAwesome | [LINK](https://fontawesome.com/icons) |
+| Noun Project | [LINK](https://thenounproject.com/) |
+| icons8 | [LINK](https://icons8.com/icons) |
+| Free Icons | [LINK](https://freeicons.io/) |
 
 # JavaScript Frameworks
 
-Det finns tusentals JS frameworks, svårt att välja den rätta
+Det finns tusentals JS frameworks, svårt att välja den rätta just för ditt projekt
+
+| Framework  |  |
+| ------------- | ------------- |
+| FlatIcon | [LINK](https://www.flaticon.com/) |
 
 # ReactJS Tutorials
 
