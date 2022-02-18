@@ -19,7 +19,7 @@ På den här repon finns en massa olika resurser som du kan behöva om du skapar
 
 Bilder kan föra dina web appar från tråkiga gråa och vita sidor till lysande och färglada sidor
 
-## Gratis bilder
+### Gratis bilder
 
 | Sida  | Link |
 | ------------- | ------------- |
@@ -28,7 +28,7 @@ Bilder kan föra dina web appar från tråkiga gråa och vita sidor till lysande
 | Pexels | [LINK](https://www.pexels.com/)  |
 | FreeImages | [LINK](https://www.freeimages.com/)  |
 
-## Betalda bilder
+### Betalda bilder
 
 | Sida  | Link |
 | ------------- | ------------- |
