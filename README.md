@@ -126,6 +126,10 @@ Tutorials för att lära sig med.
 Det finns många browser extension som kan hjälpa och försnabba ditt arbete som en web developer. <br>
 Det här är en lista av de jag skulle rekommendera.
 
+| Extension  | Beskrivning | Chrome | Firefox |
+| ------------- | ------------- | ------------- | ------------- |
+| Ublock Origin | [LINK](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) | [LINK](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | En Adblocker är ett måste om du är på nätet, uBlock origin är den simplaste och bästa |
+
 # NodeJS libraries
 
 Här är några väldigt användbara och bra NPM libraries
