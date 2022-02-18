@@ -13,7 +13,7 @@ På den här repon finns en massa olika resurser som du kan behöva om du skapar
  - [Frameworks](#Frameworks)
  - [Tutorials](#Tutorials)
  - [Extensions](#Browser-Extensions)
- - [NodeJS libraries](#NodeJS-libraries)
+ - [NodeJS Packages](#NodeJS-Packages)
 
 # Bilder
 
@@ -134,10 +134,11 @@ På den här repon finns en massa olika resurser som du kan behöva om du skapar
 | WhatRuns | [LINK](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip?hl=en) | [LINK](https://addons.mozilla.org/en-US/firefox/addon/whatruns/) | WhatRuns visar vad en viss websida kör på |
 | ColorZilla | [LINK](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en) | [LINK](https://addons.mozilla.org/en-US/firefox/addon/colorzilla/) | ColorZilla är en color picker och selector som gör det lätt att hitta färger från sidor |
 
-# NodeJS libraries
+# NodeJS Packages
 
-> Här är några väldigt användbara och bra NPM libraries
+> Här är några väldigt användbara och bra NPM Packages
 
 | Library | Beskrivning |
 | ------------- | ------------- |
-| Ublock Origin |  En Adblocker är ett måste om du är på nätet, uBlock origin är den simplaste och bästa |
+| [sqlite3](https://www.npmjs.com/package/sqlite3) | sqlite3 är en SQlite wrapper som gör det väldigt lätt att arbeta med SQlite databaser |
+
