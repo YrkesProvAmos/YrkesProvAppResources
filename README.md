@@ -25,9 +25,16 @@ Bilder kan föra dina web appar från tråkiga gråa och vita sidor till lysande
 | ------------- | ------------- |
 | PixaBay | [LINK](https://pixabay.com/)  |
 | UnSplash | [LINK](https://unsplash.com/)  |
-
+| Pexels | [LINK](https://www.pexels.com/)  |
+| FreeImages | [LINK](https://www.freeimages.com/)  |
 
 ## Betalda bilder
+
+| Sida  | Link |
+| ------------- | ------------- |
+| ShutterStock | [LINK](https://www.shutterstock.com/images)  |
+| iStock | [LINK](https://www.istockphoto.com/)  |
+| Adobe Stock | [LINK](https://stock.adobe.com/)  |
 
 # Fonter
 
